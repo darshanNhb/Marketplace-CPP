@@ -1,0 +1,5 @@
+B2
+Bob
+p2
+1000
+NOTIF:Welcome to the premium marketplace.

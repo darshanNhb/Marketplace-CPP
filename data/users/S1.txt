@@ -1,0 +1,5 @@
+S1
+GlobalTech
+p1
+1500
+NOTIF:Your order for 'WiFi Mouse' was processed!

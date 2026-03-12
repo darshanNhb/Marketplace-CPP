@@ -1,0 +1,5 @@
+B1
+Alice
+p1
+5000
+NOTIF:You won the auction for 'Vintage Watch'!
